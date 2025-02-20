@@ -12,7 +12,7 @@ using _200574824.Data;
 namespace _200574824.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250220001933_Initial")]
+    [Migration("20250220010433_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
@@ -236,7 +236,6 @@ namespace _200574824.Data.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("StudenId"));
 
                     b.Property<string>("EmailAddress")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("FirstName")

@@ -10,14 +10,13 @@ namespace _200574824.Models
 
         [Required]
         [DisplayName("First Name")]
-        public string FirstName { get; set; }
+        public string? FirstName { get; set; }
 
         [Required]
         [DisplayName("Last Name")]
-        public string LastName { get; set; }
+        public string? LastName { get; set; }
 
-        [Required]
         [DisplayName("Email Address")]
-        public string EmailAddress { get; set; }
+        public string? EmailAddress { get; set; }
     }
 }

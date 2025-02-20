@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Truong\\Desktop\\dotnet-midterm\\200574824\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F320A3D-EE18-4907-AE02-6735130C099E}|200574824\\200574824.csproj|c:\\users\\truong\\desktop\\dotnet-midterm\\200574824\\200574824\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F320A3D-EE18-4907-AE02-6735130C099E}|200574824\\200574824.csproj|solutionrelative:200574824\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F320A3D-EE18-4907-AE02-6735130C099E}|200574824\\200574824.csproj|c:\\users\\truong\\desktop\\dotnet-midterm\\200574824\\200574824\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F320A3D-EE18-4907-AE02-6735130C099E}|200574824\\200574824.csproj|solutionrelative:200574824\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F320A3D-EE18-4907-AE02-6735130C099E}|200574824\\200574824.csproj|c:\\users\\truong\\desktop\\dotnet-midterm\\200574824\\200574824\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F320A3D-EE18-4907-AE02-6735130C099E}|200574824\\200574824.csproj|solutionrelative:200574824\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +35,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\dotnet-midterm\\200574824\\200574824\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "200574824\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\dotnet-midterm\\200574824\\200574824\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "200574824\\Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T01:06:12.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\dotnet-midterm\\200574824\\200574824\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "200574824\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\dotnet-midterm\\200574824\\200574824\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "200574824\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T01:03:04.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\dotnet-midterm\\200574824\\200574824\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "200574824\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\dotnet-midterm\\200574824\\200574824\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "200574824\\Views\\Students\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T01:02:48.065Z",
+              "EditorCaption": ""
             }
           ]
         },

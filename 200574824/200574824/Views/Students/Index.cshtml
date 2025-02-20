@@ -19,15 +19,14 @@
                 @Html.DisplayNameFor(model => model.LastName)
             </th>
             <th>
-                @if(Model.Select(Model => Model.EmailAddress).Any())
+                @if(Model.Select(Model => Model.EmailAddress).Any(m => !String.IsNullOrEmpty(m)))
                 {
                     @Html.DisplayNameFor(model => model.EmailAddress)
-                }
+                } 
                 else
                 {
                     @Html.DisplayName("No Email")
                 }
-
             </th>
             <th></th>
         </tr>
